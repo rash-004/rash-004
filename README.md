@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rash-004
+- 👋 Hi, I’m Rashmi Amarasekara
 - 👀 I’m interested in , mmm let's say coding.
 - 🌱 I’m currently learning Python and Full Satck developing
 
