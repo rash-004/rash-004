@@ -9,6 +9,10 @@
     <li>Javascript</li>
     <li>Python</li>
   </ul>
+  <h2>Education</h2>
+  <u>
+    <li>Sujatha Vidyalaya, Matara</li>
+  </u>
   
                    
 </body>
