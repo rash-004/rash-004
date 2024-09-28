@@ -12,6 +12,7 @@
   <h2>Education</h2>
   <u>
     <li>Sujatha Vidyalaya, Matara</li>
+    <li>University of Moratuwa</li>
   </u>
   
                    
