@@ -1,7 +1,7 @@
 <html>
 <body>
   <h1>👋Rashmi Amarasekara, 20</h1>
-  <p>...Way to Future [whatever]</p>
+  <p>... [whatever]</p>
   <h2>Skills</h2>
   <ul>
     <li>HTML5</li>
