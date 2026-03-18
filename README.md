@@ -1,14 +1,12 @@
 <html>
 <body>
-  <h1>👋Rashmi Amarasekara, 20</h1>
+  <h1>👋Rashmi Amarasekara, 21</h1>
   <p>... [whatever]</p>
   <h2>Education</h2>
   <u>
     <li>Sujatha Vidyalaya, Matara</li>
     <li>University of Moratuwa</li>
-  </u>
-  
-                   
+  </u>                
 </body>
   
 </html>
